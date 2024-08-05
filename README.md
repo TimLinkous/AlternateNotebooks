@@ -9,7 +9,7 @@ Once given the go-ahead, research the tech and talk about it within the group. G
 
 ### Presentation
 
-For each nootbook tech chosen, create a simple Google Slides presentation on the notebook projects/products your group reviewed. Compare and contrast against Jupyter Notebook. Each tech preso should be about 6 slides long:
+For each notebook tech chosen, create a simple Google Slides presentation on the notebook projects/products your group reviewed. Compare and contrast against Jupyter Notebook. Each tech preso should be about 6 slides long:
 - 1: Describe the tech, who built it, what its key features are
 - 2: Explain the special features that the creators stress
 - 3: Compare it to Jupyter
